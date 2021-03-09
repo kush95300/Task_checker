@@ -9,10 +9,10 @@ Here Jupyter notebook file is there.(comming soon with more functionality)
 Program Explaining Video: <b> Posting Soon </b>
 
 
-
+<b>
 Creater: 
-Kaushal Soni
-
-EMail: Kaushal95300@gmail.com
-Linkedin: https://www.linkedin.com/in/kaushal-soni-988650146/
-Github: https://github.com/kush95300/
+Kaushal Soni </br>
+EMail: Kaushal95300@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/kaushal-soni-988650146/ </br>
+Github: https://github.com/kush95300/ </br>
+</b>
