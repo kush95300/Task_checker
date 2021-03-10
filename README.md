@@ -6,7 +6,12 @@ I created this program to help our community. By this we can check task in few m
 
 Here Jupyter notebook file is there.(comming soon with more functionality) 
 
-Program Explaining Video: <b> Posting Soon </b>
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</br>
+
+Program Explaining Video: <b> https://drive.google.com/file/d/1SEnH4e8LwgFDIawsZ9CzXHAyxrKPHIQk/view?usp=sharing </b></br>
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</br>
+
+If you like my work. Star this repo.</br>Thanks </br>
 
 
 <b>
